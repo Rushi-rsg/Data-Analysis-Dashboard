@@ -8,3 +8,6 @@ I have developed comprehensive project in Tableau, creating dashboard to analyzw
 - list of top 10 Category sales
 - Market wise customer acquisition per month
 - 1st suggests top region which acquire most customer per month
+## Dashboard
+![image](https://github.com/user-attachments/assets/edca9adc-df33-4b31-9ada-a7a2135e5ec0)
+
